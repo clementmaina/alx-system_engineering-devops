@@ -1,1 +1,0 @@
-printing path of directory
